@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CHANDAN1315
+- 👋 Hi, I’m CHANDAN
 - 👀 I’m interested in Competitive Coding and Web development
 - 🌱 I’m currently learning Different concepts used in CP
 - 💞️ I’m looking to collaborate on Web development projects and Teaching CP to beginners.
